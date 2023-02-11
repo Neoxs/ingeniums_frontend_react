@@ -1,6 +1,8 @@
-1- create react app
-2- create table component
-3- decoposite table component to tableHead and TableBody
-4- create a list employees that has name and job, and pass it as a props to the table
-5- map through the array to return a table row for each object in the array
-6- create a state for our application
+# React Tutorial
+Simple react app to learn the fundamentals of react
+
+## Purpose
+<ul>
+<li>Learn about essential React concepts and related terms, such as Babel, Webpack, JSX, components, props, state, and lifecycle.</li>
+<li>Build a very simple React app that demonstrates the above concepts.<li/>
+</ul>
